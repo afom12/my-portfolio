@@ -9,7 +9,6 @@ Welcome to my personal portfolio website, built using HTML, CSS, and JavaScript.
 - About and contact section
 
 
-
 ## 📁 Tech Stack
 - HTML
 - CSS
